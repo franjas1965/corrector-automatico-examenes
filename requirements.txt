@@ -1,0 +1,18 @@
+# Corrector Automático de Exámenes v5
+# Dependencias del proyecto
+
+# Visión por computador
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+
+# Análisis de datos
+pandas>=2.0.0
+
+# Interfaz gráfica web
+gradio>=4.0.0
+
+# Manejo de Excel
+openpyxl>=3.1.0
+
+# Procesamiento de imágenes
+Pillow>=10.0.0
